@@ -1,0 +1,22 @@
+.header-1 {
+    color: white;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+img {
+    border: 5px solid whitesmoke;
+    margin-left: 20px;
+}
+
+.content-1 {
+    color: white;
+    size: 50px;
+}
+
+.content-2 {
+    color: white;
+    margin-left: 20px;
+    border-left: 6px solid rgb(255, 255, 255);
+}
